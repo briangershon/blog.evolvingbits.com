@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Testing Parse.com Cloud Code using Q Promises: Part 1"
+title: "Testing Parse.com Cloud Code using Q Promises"
 date: 2013-09-28 17:07
 comments: true
 categories:
@@ -23,6 +23,6 @@ Here's an initial experiment of using `Q` with Parse.com Cloud Code.
 
 <em>How to run: I just created a new Cloud Code project with the Parse command-line tool `parse new` and then grabbed q.js via an `npm install q` and copied q.js into the `./cloud` directory.</em>
 
-{% gist 6747919 %}
+<script src="https://gist.github.com/6747919.js" type="text/javascript"></script>
 
 [Here's the code on gist.github.com](https://gist.github.com/briangershon/6747919/)
