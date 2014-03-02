@@ -9,8 +9,8 @@ author: Brian Gershon
 simple_search: http://google.com/search
 description: Brian Gershon's Blog about JavaScript and iOS.
 
-image_prefix: /images/post/*
-image_new_prefix: https://raw.github.com/briangershon/blog.evolvingbits.com/master'
+image_prefix: /images/post
+image_new_prefix: https://raw.github.com/briangershon/blog.evolvingbits.com/master
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
