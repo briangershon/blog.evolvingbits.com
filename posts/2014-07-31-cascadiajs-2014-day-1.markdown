@@ -1,0 +1,37 @@
+---
+layout: post
+title: "CascadiaJS 2014"
+date: 2014-07-31 22:06
+comments: true
+categories:
+- Programming
+tags:
+- JavaScript
+---
+CascadiaJS 2014 kicked off today in Portland.
+
+Everything ran smoothly, even in 89 degree weather!
+
+Videos are starting to become [available on YouTube](http://www.youtube.com/channel/UCIP244iNzbn4iEkDOgczvcQ) with new ones being announced on [Twitter](https://twitter.com/CascadiaJS).
+
+## Presentations
+
+My favorite presentations today were:
+
+* [Glen Maddern](https://twitter.com/glenmaddern) talks about Web Components and creating his [x-gif](http://geelen.github.io/x-gif) web component. ([talk proposal](https://github.com/cascadiajs/2014.cascadiajs.com/blob/master/proposals/gifs-vs-web-components_geelen.md))
+
+* [Joe Lepper](https://twitter.com/josephlepper) talks about his Reddit bot experiements. ([talk proposal](https://github.com/cascadiajs/2014.cascadiajs.com/blob/master/proposals/writing-robot-plays.md))
+
+* [David Manning](https://twitter.com/davidlymanning) talks about optimizing JavaScript for V8. ([talk proposal](https://github.com/cascadiajs/2014.cascadiajs.com/blob/master/proposals/practical-optimization-for-v8.md))
+
+* [Nick Niemeir](https://twitter.com/nickniemeir) talks about rolling your own Emitters which "let you flexibly decouple parts of your system, and control how they are tied together." ([talk proposal](https://github.com/cascadiajs/2014.cascadiajs.com/blob/master/proposals/the-magic-of-custom-event-emitters_nrn.md#the-magic-of-custom-event-emitters))
+
+I also enjoyed these presentations:
+
+* [Willow Brugh](https://twitter.com/willowbl00) talks about providing "Mutual Aid at a Global Scale" ([video of presentation](http://www.youtube.com/watch?v=oBwmMKxX5M8&list=UUIP244iNzbn4iEkDOgczvcQ))
+
+* [Kate Hudson](https://twitter.com/k88hudson) talks about "encouraging diversity in your open source project" ([video of presentation](http://www.youtube.com/watch?v=P_ZZrq3PtLE&list=UUIP244iNzbn4iEkDOgczvcQ))
+
+* [Jason Campbell](https://twitter.com/jxson) talks about how to create and build a successful user group based on his experiences in Los Angeles. ([talk proposal](https://github.com/cascadiajs/2014.cascadiajs.com/blob/master/proposals/your-community-dot-js_jxson.md))
+
+* [Lydia Katsamberis](https://twitter.com/llkats) talks about the gratification and usefulness of writing your own bookmarklets ([talk proposal](https://github.com/cascadiajs/2014.cascadiajs.com/blob/master/proposals/bookmarklets-ftw_llkats.md))
